@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "ppsId": {
+      "type": "keyword"
+    },
+    "passportNumber": {
+      "type": "text"
+    }
+  }
+}
